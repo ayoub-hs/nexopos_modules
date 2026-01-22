@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <namespace>NsManufacturing</namespace>
+    <version>0.1.0</version>
+    <name>Manufacturing Management</name>
+    <author>ayoub-hs</author>
+    <description>Manufacturing: BOMs, Work Orders, consume raw materials and produce finished goods into inventory.</description>
+    <core>
+        <min-version>6.0.0</min-version>
+    </core>
+    <providers>
+        <provider>Modules\NsManufacturing\Providers\ManufacturingServiceProvider</provider>
+    </providers>
+</module>
